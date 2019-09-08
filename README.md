@@ -1,5 +1,5 @@
 # MemePrototype
-
+Users can use MemePrototype attach a caption to a picture and share it with friends.
 ## Prerequisites
 Xcode Xcode 10.1
 
